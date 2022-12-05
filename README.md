@@ -1,4 +1,4 @@
-# Python based bike database (SQLite) app
+# Python based persons database (SQLite) app for fetching and storing data
 
 ## Installation: 
 
